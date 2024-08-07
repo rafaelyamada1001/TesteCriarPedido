@@ -1,0 +1,14 @@
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\bin\Debug\net8.0\Testeestagio.exe
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\bin\Debug\net8.0\Testeestagio.deps.json
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\bin\Debug\net8.0\Testeestagio.runtimeconfig.json
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\bin\Debug\net8.0\Testeestagio.dll
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\bin\Debug\net8.0\Testeestagio.pdb
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\obj\Debug\net8.0\Testeestagio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\obj\Debug\net8.0\Testeestagio.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\obj\Debug\net8.0\Testeestagio.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\obj\Debug\net8.0\Testeestagio.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\obj\Debug\net8.0\Testeestagio.dll
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\obj\Debug\net8.0\refint\Testeestagio.dll
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\obj\Debug\net8.0\Testeestagio.pdb
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\obj\Debug\net8.0\Testeestagio.genruntimeconfig.cache
+C:\Users\Rafael\source\repos\Testeestagio\Testeestagio\obj\Debug\net8.0\ref\Testeestagio.dll

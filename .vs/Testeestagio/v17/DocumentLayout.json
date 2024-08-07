@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rafael\\source\\repos\\Testeestagio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC58D012-68F5-4538-BA8F-B3703F65B3D0}|Testeestagio\\Testeestagio.csproj|c:\\users\\rafael\\source\\repos\\testeestagio\\testeestagio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC58D012-68F5-4538-BA8F-B3703F65B3D0}|Testeestagio\\Testeestagio.csproj|solutionrelative:testeestagio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC58D012-68F5-4538-BA8F-B3703F65B3D0}|Testeestagio\\Testeestagio.csproj|c:\\users\\rafael\\source\\repos\\testeestagio\\testeestagio\\models\\pedidocabecalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC58D012-68F5-4538-BA8F-B3703F65B3D0}|Testeestagio\\Testeestagio.csproj|solutionrelative:testeestagio\\models\\pedidocabecalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC58D012-68F5-4538-BA8F-B3703F65B3D0}|Testeestagio\\Testeestagio.csproj|c:\\users\\rafael\\source\\repos\\testeestagio\\testeestagio\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC58D012-68F5-4538-BA8F-B3703F65B3D0}|Testeestagio\\Testeestagio.csproj|solutionrelative:testeestagio\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC58D012-68F5-4538-BA8F-B3703F65B3D0}|Testeestagio\\Testeestagio.csproj|c:\\users\\rafael\\source\\repos\\testeestagio\\testeestagio\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC58D012-68F5-4538-BA8F-B3703F65B3D0}|Testeestagio\\Testeestagio.csproj|solutionrelative:testeestagio\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC58D012-68F5-4538-BA8F-B3703F65B3D0}|Testeestagio\\Testeestagio.csproj|c:\\users\\rafael\\source\\repos\\testeestagio\\testeestagio\\models\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC58D012-68F5-4538-BA8F-B3703F65B3D0}|Testeestagio\\Testeestagio.csproj|solutionrelative:testeestagio\\models\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC58D012-68F5-4538-BA8F-B3703F65B3D0}|Testeestagio\\Testeestagio.csproj|c:\\users\\rafael\\source\\repos\\testeestagio\\testeestagio\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC58D012-68F5-4538-BA8F-B3703F65B3D0}|Testeestagio\\Testeestagio.csproj|solutionrelative:testeestagio\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Testeestagio\\Testeestagio\\Models\\PedidoItem.cs",
+              "RelativeDocumentMoniker": "Testeestagio\\Models\\PedidoItem.cs",
+              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Testeestagio\\Testeestagio\\Models\\PedidoItem.cs",
+              "RelativeToolTip": "Testeestagio\\Models\\PedidoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:13:00.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoCabecalho.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Testeestagio\\Testeestagio\\Models\\PedidoCabecalho.cs",
+              "RelativeDocumentMoniker": "Testeestagio\\Models\\PedidoCabecalho.cs",
+              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Testeestagio\\Testeestagio\\Models\\PedidoCabecalho.cs",
+              "RelativeToolTip": "Testeestagio\\Models\\PedidoCabecalho.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:12:47.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Testeestagio\\Testeestagio\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Testeestagio\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Testeestagio\\Testeestagio\\Models\\Produto.cs",
+              "RelativeToolTip": "Testeestagio\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:12:30.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Testeestagio\\Testeestagio\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "Testeestagio\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Testeestagio\\Testeestagio\\Models\\Endereco.cs",
+              "RelativeToolTip": "Testeestagio\\Models\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:12:22.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Testeestagio\\Testeestagio\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Testeestagio\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Testeestagio\\Testeestagio\\Models\\Cliente.cs",
+              "RelativeToolTip": "Testeestagio\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:12:07.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Testeestagio\\Testeestagio\\Program.cs",
+              "RelativeDocumentMoniker": "Testeestagio\\Program.cs",
+              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Testeestagio\\Testeestagio\\Program.cs",
+              "RelativeToolTip": "Testeestagio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:08:01.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
